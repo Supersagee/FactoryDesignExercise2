@@ -1,0 +1,16 @@
+C:\Users\Billy\source\repos\FactoryDesignPatterExercise\FactoryDesignPatterExercise\bin\Debug\net5.0\FactoryDesignPatterExercise.exe
+C:\Users\Billy\source\repos\FactoryDesignPatterExercise\FactoryDesignPatterExercise\bin\Debug\net5.0\FactoryDesignPatterExercise.deps.json
+C:\Users\Billy\source\repos\FactoryDesignPatterExercise\FactoryDesignPatterExercise\bin\Debug\net5.0\FactoryDesignPatterExercise.runtimeconfig.json
+C:\Users\Billy\source\repos\FactoryDesignPatterExercise\FactoryDesignPatterExercise\bin\Debug\net5.0\FactoryDesignPatterExercise.runtimeconfig.dev.json
+C:\Users\Billy\source\repos\FactoryDesignPatterExercise\FactoryDesignPatterExercise\bin\Debug\net5.0\FactoryDesignPatterExercise.dll
+C:\Users\Billy\source\repos\FactoryDesignPatterExercise\FactoryDesignPatterExercise\bin\Debug\net5.0\ref\FactoryDesignPatterExercise.dll
+C:\Users\Billy\source\repos\FactoryDesignPatterExercise\FactoryDesignPatterExercise\bin\Debug\net5.0\FactoryDesignPatterExercise.pdb
+C:\Users\Billy\source\repos\FactoryDesignPatterExercise\FactoryDesignPatterExercise\obj\Debug\net5.0\FactoryDesignPatterExercise.csproj.AssemblyReference.cache
+C:\Users\Billy\source\repos\FactoryDesignPatterExercise\FactoryDesignPatterExercise\obj\Debug\net5.0\FactoryDesignPatterExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Billy\source\repos\FactoryDesignPatterExercise\FactoryDesignPatterExercise\obj\Debug\net5.0\FactoryDesignPatterExercise.AssemblyInfoInputs.cache
+C:\Users\Billy\source\repos\FactoryDesignPatterExercise\FactoryDesignPatterExercise\obj\Debug\net5.0\FactoryDesignPatterExercise.AssemblyInfo.cs
+C:\Users\Billy\source\repos\FactoryDesignPatterExercise\FactoryDesignPatterExercise\obj\Debug\net5.0\FactoryDesignPatterExercise.csproj.CoreCompileInputs.cache
+C:\Users\Billy\source\repos\FactoryDesignPatterExercise\FactoryDesignPatterExercise\obj\Debug\net5.0\FactoryDesignPatterExercise.dll
+C:\Users\Billy\source\repos\FactoryDesignPatterExercise\FactoryDesignPatterExercise\obj\Debug\net5.0\ref\FactoryDesignPatterExercise.dll
+C:\Users\Billy\source\repos\FactoryDesignPatterExercise\FactoryDesignPatterExercise\obj\Debug\net5.0\FactoryDesignPatterExercise.pdb
+C:\Users\Billy\source\repos\FactoryDesignPatterExercise\FactoryDesignPatterExercise\obj\Debug\net5.0\FactoryDesignPatterExercise.genruntimeconfig.cache
