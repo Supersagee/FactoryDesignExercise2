@@ -6,20 +6,27 @@ namespace FactoryDesignPatterExercise
     {
         static void Main(string[] args)
         {
-            string userResponse;
-            bool correctResponse;
-            
-            do
-            {
-                correctResponse = false;
-                Console.WriteLine("What database would you like to use? list, sql, or mongo?");
-                userResponse = Console.ReadLine();
+            string userResponse = null;
+            bool correctResponse = false;
 
-                if (userResponse == "list" || userResponse == "sql" || userResponse == "mongo")
+            Console.WriteLine("What database would you like to use? list, sql, or mongo?");
+
+            while (correctResponse == false)
+            {
+                
+                userResponse = Console.ReadLine();
+                var lowered = userResponse.ToLower();
+
+                if (lowered == "list" || lowered == "sql" || lowered == "mongo")
                 {
-                    correctResponse = true;                    
+                    correctResponse = true;
+                    break;
                 }
-            }while(correctResponse == false);
+
+                Console.WriteLine("Try again. You can only pick from a list, sql, or mongo.");
+            }
+
+            Console.Clear();
 
             var userDatabase = DataAccessFactory.GetDataAccessType(userResponse);
 
